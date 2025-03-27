@@ -95,4 +95,4 @@ Enjoy exploring the app and classifying MRI brain images!
 
 - 🌐 **Kaggle Notebook**: Interested in a Kaggle environment? Explore the notebook [here](https://www.kaggle.com/code/farzadnekouei/enhanced-mri-brain-tumor-classification).
 - 🌐 **Dataset Source**: Available on [Kaggle](https://www.kaggle.com/datasets/susandaneshmand/mri-images).
-- 🤝 **Connect on LinkedIn**: Have questions or looking for collaboration? Let's connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
+- 🤝 **Connect on LinkedIn**: Have questions or looking for collaboration? Let's connect on [LinkedIn](www.linkedin.com/in/syedsajidhussainrazvi/).
